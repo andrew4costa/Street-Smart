@@ -1,1 +1,1 @@
-# Street-Smart
+# Street-Smart Kaggle Project
